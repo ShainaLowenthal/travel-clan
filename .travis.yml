@@ -7,7 +7,7 @@ install:
 - npm install
 
 script:
--npm start
+- npm start
 
 deploy:
   provider: pages
