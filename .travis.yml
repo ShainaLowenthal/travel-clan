@@ -15,4 +15,4 @@ deploy:
   skip-cleanup: true
   
   on: 
-    branch: gh-pages
+    branch: master
